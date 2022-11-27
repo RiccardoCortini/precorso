@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riccardo Cortini</title>
+ </head>
+ <body>
+  <h1>Riccardo Cortini: Una vita sprecata?</h1>  
+  <h2>Analizziamo brevemente la sua vita</h2>
+    <p>Riccardo nasce una fredda mattina di Gennaio. Erano circa le 12 di sabato 7 Gennaio, e la giornata era fin troppo calda per essere in pieno inverno. Iscritto, per non si sa ancora quale folle ragione, in una scuola di suore francescane, dopo le scuole medie finì in un modesto <span style="color:blue">liceo classico</span> di periferia, dove apprese poco o nulla. Non c'era infatti una materia che lo interessasse più delle altri. Anzi non sembravano esserci veri e propri interessi nella sua vita.</p>
+    <div>I suoi interessi infatti potevano riassumersi in:
+    </div>
+    <ul>
+        <li>La As Roma</li>
+        <li>il cibo</li>
+        <li>gli anime</li>
+        <li>i videogames</li>
+    </ul>
+    <p>Finito a fatica il liceo, decide di iscriversi alla facoltà di <span style="color:blue">Giurisprudenza</span>. Infatti il suo sogno era quello di aiutare i più deboli e chi non si poteva permettere degli avvocati troppo costosi. Il suo sogno purtroppo naufragò dopo circa un anno, infrangendosi più volte contro l'enorme scoglio che è stato l'esame di diritto privato. Riccardo decide quindi di abbandonare lo studio, e inizia a fare i lavori che tutti i giovani prima o poi si ritrovano a fare, come</p>
+    <ol>
+        <li>il commesso</li>
+        <li>l'agente immobiliare</li>
+        <li>il fattorino</li>
+    </ol>
+    <p>Nonostante in questo periodo sia impegnato corpo e mente, Riccardo vuole darsi una seconda opportunità. Da fanatico della storia di Roma, decide di iscriversi nuovamente all'univiersità, stavolta però alla facolta di <span style="color:blue">Scienze Archeologiche</span>. Nel giro di 3 anni riesce a dare tutti gli esami, a prendere parte a ben 4 campagne di scavo e a laurearsi. Nella vita non bisogna mai arrendersi, e bisogna darsi sempre almeno una seconda possibilità.</p>
+    <img
+    src=https://scontent-fco2-1.xx.fbcdn.net/v/t1.18169-9/25498014_10215094451260482_8205413719891588092_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=aIs0yuqeLD8AX_a5k9Z&_nc_ht=scontent-fco2-1.xx&oh=00_AfAb48ak3GVxrz8hYB1GEXol4fwGQsecC4-Ng8xJN3IKrg&oe=63A876DB
+    style="width:400px"
+    alt="Sapienza, 21/12/2017"
+    />
+    <h4>Per qualsiasi informazione, potete scrivermi qui</h4>
+    <a href="https://www.facebook.com/ricardo.s.cortez/">Facebook</a>
+    <div>
+    <a href="mailto:riccardocortini@hotmail.it">riccardocortini@hotmail.it</a>
+    </div>
+ </body>
+</html>
