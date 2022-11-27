@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY MUSIC WEB PAGE</title>
+</head>
+<body>
+    <h1>MY MUSIC WEB PAGE</h1>
+    <h2>Benvenuti</h2>
+    <h5>Prima di continuare, registriamoci</h5>
+    <form onsubmit="alert('Daje')">
+    <input type="text" placeholder="Nome d'arte"/>
+    <div>
+       <input type="text" placeholder="Cognome" />
+    </div>
+    <div>
+        <input type="email" placeholder="Email"/>
+    </div>
+    <div>
+        <input type="password" placeholder="Password"/>
+    </div>
+    <div>
+        <input type="date" />
+    </div>
+    <div>
+        <input type="number" placeholder="Telefono"/>
+    </div>
+    <div>
+        <input type="checkbox" id="Scelta1">
+        <label for="Scelta1"> Rock</label><br>
+        <input type="checkbox" id="Scelta2">
+        <label for="Scelta2"> Pop</label><br>
+        <input type="checkbox" id="Scelta3">
+        <label for="Scelta3"> Dance</label>
+    </div>
+    <br/>
+    <div>
+      <input type="radio" id="autorizzazione">
+      <label for="autorizzazione">autorizzo il trattamento dei miei dati per scopi propagandistici</label>
+    </div>
+    <br/>
+    <div>
+    <button type="submit">Invia Registrazione</button>
+    </div>
+    </form>
+</body>
+</html>
